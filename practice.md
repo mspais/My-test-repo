@@ -11,6 +11,6 @@ bulleted list:
 - item 2
 <br>
 <br>
-numbered list:
-1. item 1
+numbered list:<br>
+1. item 1<br>
 2. item 2
